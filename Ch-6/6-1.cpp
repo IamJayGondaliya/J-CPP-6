@@ -12,6 +12,15 @@ using namespace std;
 	- Similar words:
 		- Parent class		=>		Super class		=>		Base class
 		- Child class		=>		Sub class		=>		Derived class
+		
+	- Types of inheitence:
+		1. Single
+		2. Multilevel
+		3. Hierarchical
+		4. Multiple
+		5. Hybrid
 	
 */
+
+
 

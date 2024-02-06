@@ -1,5 +1,29 @@
 #include<iostream>
+#include "class.cpp"
 using namespace std;
+
+int main() {
+	
+	D d;
+	
+	d.B::setA();
+	d.setB();
+	d.setC();
+	d.setD();
+	
+	d.B::getA();
+	d.getB();
+	d.getC();
+	d.getD();
+	
+	d.sum();
+	
+}
+
+
+
+
+
 
 /*
 	What inheritence?
@@ -21,6 +45,8 @@ using namespace std;
 		5. Hybrid
 	
 */
+
+
 
 
 
